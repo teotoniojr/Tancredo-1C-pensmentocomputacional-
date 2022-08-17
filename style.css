@@ -1,7 +1,15 @@
 body{
     text-align: center;
-    background: #c09cfa;
+    background: #af94da;
 }
 #slogan{ 
     font-size:25px;
+}
+.capa{
+    width: 75%;
+    height: 80%;
+}
+.conteudo{
+    background-color: rgb(227, 200, 232);
+    font-family: sans-serif;
 }
