@@ -1,21 +1,10 @@
 body{
-    background: #af94da;
-}
-}
-main {
     text-align: center;
-}
-#slogan{ 
-    font-size:25px;
+     background-color:rgb(192, 255, 226)
 }
 .capa{
-    width: 75%;
-    height: 80%;
-}
-.conteudo{
-    background-color: rgb(32, 126, 152);
-    font-family: sans-serif;
+    width: 100%;
 }
 .beneficios{
-    background-color: rgb(0, 172, 112);
+    text-align: left;
 }
